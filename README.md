@@ -18,7 +18,7 @@ Term: Spring 2020
 • Used text mining, topic modeling, and sentiment analysis to analyze music's lyrics by R
 • Analyzed and visualized the differences and connections among songs of different genres, variety of sentiment and expressions of emotions from the 1950s to the present, as well as changes towards emotions on the track of time of a song.
 • The final report can work as a mini Wikipedia of different genre music
-• Made a shinyapp which aims to help users to discover and compare different genres and their sentiments in a more efficient manner, and is created by Olivia Wang in February 2020. 
+• Made a shinyapp which aims to help users to discover and compare different genres and their sentiments in a more efficient manner, and is created by Olivia Wang in February 2020. https://yuyao-olivia-wang.shinyapps.io/lyrics/
 
 ![screenshot](doc/home1.png)
 
